@@ -3,4 +3,4 @@
 4 JavaScript functions for the 4 basic mathematical operations: addition, subtraction, multiplication, and division.
 
 
-4 تابع جاوااسکریپتی برای چهار عمل اصلی راضی یعنی ضرب تقسیم جمع و منها
+4 تابع جاوااسکریپتی برای چهار عمل اصلی ریاضی یعنی ضرب ، تقسیم ، جمع و منها
